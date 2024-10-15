@@ -1,0 +1,6 @@
+Hielo:frío
+Afuera:cerca
+Lento:despacio
+Abundante:mucho
+Altura:elevación
+Calmar:atenuar
